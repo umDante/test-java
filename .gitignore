@@ -9,7 +9,7 @@ build/
 build.properties
 junit*.properties
 IgnoreLexer.java~
-											.gradle
-											.DS_Store
+.gradle
+.DS_Store
 
 											/verification
